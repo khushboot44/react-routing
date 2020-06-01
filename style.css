@@ -1,0 +1,38 @@
+*{margin:0; padding:0;}
+
+.home{
+  background-color: rgb(34, 0, 128);
+  text-align: center;
+  color:azure;
+}
+
+.about{
+ width:100%;
+ height:300px;
+ color:white;
+ background-color: rgb(135, 133, 247);
+ display:flex;
+ justify-content:center;
+  align-items: center;
+
+}
+.hello{
+  background-color:  blue;
+  text-align: center;
+  color:azure;
+  width:100%;
+  height:100px;
+}
+
+.hello ul{
+  height:100px;
+  display:flex;
+  justify-content:space-around;
+  align-items: center;
+}
+
+.hello ul li{
+  list-style:none;
+  text-transform: uppercase;
+  color:white;
+}
